@@ -47,6 +47,10 @@ h2 {
   margin: auto;
 }
 
+.menu-item-text {
+    width: 50%;
+
+}
 .menu-img {
   width: 100%
 }
